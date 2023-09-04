@@ -196,3 +196,19 @@ Tflite
 
 
 
+Creating classes - models/methods tried for converting 176 classes down to 6 classes for image classification 
+1) KMeans
+2) DBSCAN
+3) Kmodes
+
+4)Clustering using nlp by getting word embeddings of 176 class keywords and then clustering on teh basis of similarity
+
+5) Human clustering
+
+
+Models used/tried for image classification
+1) VGG 16 architecture
+2) custom CNN
+
+
+
